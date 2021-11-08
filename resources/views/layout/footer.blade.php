@@ -46,11 +46,7 @@
                                 <li><a href="#">Côte d'Ivoire, Abidjan</a></li>
                                 <li><a href="#">+225 07-78-08-73-78</a></li>
                                 <li><a href="#">AfriEmplois@gmail.com</a></li>
-                                <li><a href="#">Lending Licenses</a></li>
-								<li><a href="#">Lending Licenses</a></li>
-                                <li><a href="#">Lending Licnses</a></li>
-								<li><a href="#">Lending Licenses</a></li>
-                                <li><a href="#">Lending Licenses</a></li>
+                                <li><a href="#">Afri-Emplois</a></li>
                             </ul>
                         </div>
                     </div>
